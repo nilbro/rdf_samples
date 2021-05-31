@@ -1,0 +1,1329 @@
+@prefix ns1: <http://schema.org/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.wikidata.org/entity/Q1365> a <https://www.wikidata.org/wiki/Q11424> ;
+    rdfs:label "Hingerissen von einem ungewöhnlichen Schicksal im azurblauen Meer im August"^^xsd:string ;
+    ns1:actor <http://www.wikidata.org/entity/Q106927>,
+        <http://www.wikidata.org/entity/Q15633636>,
+        <http://www.wikidata.org/entity/Q2816288>,
+        <http://www.wikidata.org/entity/Q315258>,
+        <http://www.wikidata.org/entity/Q3609295>,
+        <http://www.wikidata.org/entity/Q3934612>,
+        <http://www.wikidata.org/entity/Q763489> ;
+    ns1:genre <http://www.wikidata.org/entity/Q130232>,
+        <http://www.wikidata.org/entity/Q157443> .
+
+<http://www.wikidata.org/entity/Q2201> a <https://www.wikidata.org/wiki/Q11424> ;
+    rdfs:label "Kick-Ass"^^xsd:string ;
+    ns1:actor <http://www.wikidata.org/entity/Q1058562>,
+        <http://www.wikidata.org/entity/Q1132632>,
+        <http://www.wikidata.org/entity/Q229914>,
+        <http://www.wikidata.org/entity/Q233868>,
+        <http://www.wikidata.org/entity/Q312712>,
+        <http://www.wikidata.org/entity/Q361610>,
+        <http://www.wikidata.org/entity/Q388557>,
+        <http://www.wikidata.org/entity/Q42869>,
+        <http://www.wikidata.org/entity/Q440956>,
+        <http://www.wikidata.org/entity/Q4509>,
+        <http://www.wikidata.org/entity/Q45923>,
+        <http://www.wikidata.org/entity/Q512818>,
+        <http://www.wikidata.org/entity/Q541428>,
+        <http://www.wikidata.org/entity/Q72867>,
+        <http://www.wikidata.org/entity/Q785270> ;
+    ns1:genre <http://www.wikidata.org/entity/Q1146335>,
+        <http://www.wikidata.org/entity/Q1535153>,
+        <http://www.wikidata.org/entity/Q157443>,
+        <http://www.wikidata.org/entity/Q188473> .
+
+<http://www.wikidata.org/entity/Q2345> a <https://www.wikidata.org/wiki/Q11424> ;
+    rdfs:label "Die zwölf Geschworenen"^^xsd:string ;
+    ns1:actor <http://www.wikidata.org/entity/Q1291706>,
+        <http://www.wikidata.org/entity/Q19155>,
+        <http://www.wikidata.org/entity/Q286738>,
+        <http://www.wikidata.org/entity/Q312107>,
+        <http://www.wikidata.org/entity/Q318312>,
+        <http://www.wikidata.org/entity/Q348351>,
+        <http://www.wikidata.org/entity/Q3565897>,
+        <http://www.wikidata.org/entity/Q373968>,
+        <http://www.wikidata.org/entity/Q4913093>,
+        <http://www.wikidata.org/entity/Q673482>,
+        <http://www.wikidata.org/entity/Q706165>,
+        <http://www.wikidata.org/entity/Q714729>,
+        <http://www.wikidata.org/entity/Q943243>,
+        <http://www.wikidata.org/entity/Q944638>,
+        <http://www.wikidata.org/entity/Q960873> ;
+    ns1:genre <http://www.wikidata.org/entity/Q130232>,
+        <http://www.wikidata.org/entity/Q3072039> .
+
+<http://www.wikidata.org/entity/Q24515> a <https://www.wikidata.org/wiki/Q11424> ;
+    rdfs:label "Shaolin"^^xsd:string ;
+    ns1:actor <http://www.wikidata.org/entity/Q16766>,
+        <http://www.wikidata.org/entity/Q3608975>,
+        <http://www.wikidata.org/entity/Q36970>,
+        <http://www.wikidata.org/entity/Q380579>,
+        <http://www.wikidata.org/entity/Q381074>,
+        <http://www.wikidata.org/entity/Q710715> ;
+    ns1:genre <http://www.wikidata.org/entity/Q130232>,
+        <http://www.wikidata.org/entity/Q188473>,
+        <http://www.wikidata.org/entity/Q3072042> .
+
+<http://www.wikidata.org/entity/Q24585> a <https://www.wikidata.org/wiki/Q11424> ;
+    rdfs:label "Der vierzehnte Juli"^^xsd:string ;
+    ns1:actor <http://www.wikidata.org/entity/Q13567757>,
+        <http://www.wikidata.org/entity/Q2134104>,
+        <http://www.wikidata.org/entity/Q2830987>,
+        <http://www.wikidata.org/entity/Q2831371>,
+        <http://www.wikidata.org/entity/Q2850540>,
+        <http://www.wikidata.org/entity/Q2861619>,
+        <http://www.wikidata.org/entity/Q2959664>,
+        <http://www.wikidata.org/entity/Q3094140>,
+        <http://www.wikidata.org/entity/Q3349208>,
+        <http://www.wikidata.org/entity/Q3361647>,
+        <http://www.wikidata.org/entity/Q3371935>,
+        <http://www.wikidata.org/entity/Q3420629>,
+        <http://www.wikidata.org/entity/Q3425827>,
+        <http://www.wikidata.org/entity/Q3426199>,
+        <http://www.wikidata.org/entity/Q3525769>,
+        <http://www.wikidata.org/entity/Q436894>,
+        <http://www.wikidata.org/entity/Q459912>,
+        <http://www.wikidata.org/entity/Q465643>,
+        <http://www.wikidata.org/entity/Q5546905> ;
+    ns1:genre <http://www.wikidata.org/entity/Q157443>,
+        <http://www.wikidata.org/entity/Q859369> .
+
+<http://www.wikidata.org/entity/Q24618> a <https://www.wikidata.org/wiki/Q11424> ;
+    rdfs:label "Jung, weiblich, gnadenlos"^^xsd:string ;
+    ns1:actor <http://www.wikidata.org/entity/Q115134>,
+        <http://www.wikidata.org/entity/Q2094005>,
+        <http://www.wikidata.org/entity/Q223193>,
+        <http://www.wikidata.org/entity/Q228871>,
+        <http://www.wikidata.org/entity/Q349857>,
+        <http://www.wikidata.org/entity/Q435652>,
+        <http://www.wikidata.org/entity/Q448587>,
+        <http://www.wikidata.org/entity/Q457395>,
+        <http://www.wikidata.org/entity/Q460786>,
+        <http://www.wikidata.org/entity/Q5220087>,
+        <http://www.wikidata.org/entity/Q786720>,
+        <http://www.wikidata.org/entity/Q943589> ;
+    ns1:genre <http://www.wikidata.org/entity/Q130232>,
+        <http://www.wikidata.org/entity/Q20442589>,
+        <http://www.wikidata.org/entity/Q3072039> .
+
+<http://www.wikidata.org/entity/Q24732> a <https://www.wikidata.org/wiki/Q11424> ;
+    rdfs:label "The Broken Coin"^^xsd:string ;
+    ns1:actor <http://www.wikidata.org/entity/Q1282938>,
+        <http://www.wikidata.org/entity/Q1357250>,
+        <http://www.wikidata.org/entity/Q1361838>,
+        <http://www.wikidata.org/entity/Q16222603>,
+        <http://www.wikidata.org/entity/Q2757658>,
+        <http://www.wikidata.org/entity/Q51114> ;
+    ns1:genre <http://www.wikidata.org/entity/Q1200678>,
+        <http://www.wikidata.org/entity/Q226730> .
+
+<http://www.wikidata.org/entity/Q24815> a <https://www.wikidata.org/wiki/Q11424> ;
+    rdfs:label "Citizen Kane"^^xsd:string ;
+    ns1:actor <http://www.wikidata.org/entity/Q1385381>,
+        <http://www.wikidata.org/entity/Q1387120>,
+        <http://www.wikidata.org/entity/Q1439141>,
+        <http://www.wikidata.org/entity/Q1507169>,
+        <http://www.wikidata.org/entity/Q1550341>,
+        <http://www.wikidata.org/entity/Q221874>,
+        <http://www.wikidata.org/entity/Q231221>,
+        <http://www.wikidata.org/entity/Q2464819>,
+        <http://www.wikidata.org/entity/Q24829>,
+        <http://www.wikidata.org/entity/Q2958529>,
+        <http://www.wikidata.org/entity/Q3057498>,
+        <http://www.wikidata.org/entity/Q3127914>,
+        <http://www.wikidata.org/entity/Q346280>,
+        <http://www.wikidata.org/entity/Q3490635>,
+        <http://www.wikidata.org/entity/Q456375>,
+        <http://www.wikidata.org/entity/Q5421985>,
+        <http://www.wikidata.org/entity/Q5563216>,
+        <http://www.wikidata.org/entity/Q600233>,
+        <http://www.wikidata.org/entity/Q7360500>,
+        <http://www.wikidata.org/entity/Q925872>,
+        <http://www.wikidata.org/entity/Q95148> ;
+    ns1:genre <http://www.wikidata.org/entity/Q12912091>,
+        <http://www.wikidata.org/entity/Q130232>,
+        <http://www.wikidata.org/entity/Q21401869>,
+        <http://www.wikidata.org/entity/Q645928> .
+
+<http://www.wikidata.org/entity/Q24910> a <https://www.wikidata.org/wiki/Q11424> ;
+    rdfs:label "Lasset die Kinder"^^xsd:string ;
+    ns1:actor <http://www.wikidata.org/entity/Q1045502>,
+        <http://www.wikidata.org/entity/Q1452177>,
+        <http://www.wikidata.org/entity/Q1801272>,
+        <http://www.wikidata.org/entity/Q2033737>,
+        <http://www.wikidata.org/entity/Q264696>,
+        <http://www.wikidata.org/entity/Q270559>,
+        <http://www.wikidata.org/entity/Q4968553>,
+        <http://www.wikidata.org/entity/Q5576476>,
+        <http://www.wikidata.org/entity/Q5968094>,
+        <http://www.wikidata.org/entity/Q6179708>,
+        <http://www.wikidata.org/entity/Q728020>,
+        <http://www.wikidata.org/entity/Q934395> ;
+    ns1:genre <http://www.wikidata.org/entity/Q130232> .
+
+<http://www.wikidata.org/entity/Q24911> a <https://www.wikidata.org/wiki/Q11424> ;
+    rdfs:label "Den sidste vinter"^^xsd:string ;
+    ns1:actor <http://www.wikidata.org/entity/Q12318973>,
+        <http://www.wikidata.org/entity/Q3531699>,
+        <http://www.wikidata.org/entity/Q35984211>,
+        <http://www.wikidata.org/entity/Q443688>,
+        <http://www.wikidata.org/entity/Q55683034>,
+        <http://www.wikidata.org/entity/Q792378> ;
+    ns1:genre <http://www.wikidata.org/entity/Q369747> .
+
+<http://www.wikidata.org/entity/Q24933> a <https://www.wikidata.org/wiki/Q11424> ;
+    rdfs:label "Das Spukschloß im Spessart"^^xsd:string ;
+    ns1:actor <http://www.wikidata.org/entity/Q100989>,
+        <http://www.wikidata.org/entity/Q101607>,
+        <http://www.wikidata.org/entity/Q109796>,
+        <http://www.wikidata.org/entity/Q110721>,
+        <http://www.wikidata.org/entity/Q120570>,
+        <http://www.wikidata.org/entity/Q25571>,
+        <http://www.wikidata.org/entity/Q45357>,
+        <http://www.wikidata.org/entity/Q469759>,
+        <http://www.wikidata.org/entity/Q66479>,
+        <http://www.wikidata.org/entity/Q71083>,
+        <http://www.wikidata.org/entity/Q90688>,
+        <http://www.wikidata.org/entity/Q97652>,
+        <http://www.wikidata.org/entity/Q99532> ;
+    ns1:genre <http://www.wikidata.org/entity/Q157443> .
+
+<http://www.wikidata.org/entity/Q24953> a <https://www.wikidata.org/wiki/Q11424> ;
+    rdfs:label "Das Leben des Brian"^^xsd:string ;
+    ns1:actor <http://www.wikidata.org/entity/Q1396040>,
+        <http://www.wikidata.org/entity/Q15504989>,
+        <http://www.wikidata.org/entity/Q166159>,
+        <http://www.wikidata.org/entity/Q1702241>,
+        <http://www.wikidata.org/entity/Q210741>,
+        <http://www.wikidata.org/entity/Q223985>,
+        <http://www.wikidata.org/entity/Q238012>,
+        <http://www.wikidata.org/entity/Q24962>,
+        <http://www.wikidata.org/entity/Q25014>,
+        <http://www.wikidata.org/entity/Q25078>,
+        <http://www.wikidata.org/entity/Q2643>,
+        <http://www.wikidata.org/entity/Q2959526>,
+        <http://www.wikidata.org/entity/Q2959794>,
+        <http://www.wikidata.org/entity/Q367017>,
+        <http://www.wikidata.org/entity/Q3780144>,
+        <http://www.wikidata.org/entity/Q4757840>,
+        <http://www.wikidata.org/entity/Q5107190>,
+        <http://www.wikidata.org/entity/Q561401>,
+        <http://www.wikidata.org/entity/Q918538>,
+        <http://www.wikidata.org/entity/Q922135> ;
+    ns1:genre <http://www.wikidata.org/entity/Q157443>,
+        <http://www.wikidata.org/entity/Q622548> .
+
+<http://www.wikidata.org/entity/Q24980> a <https://www.wikidata.org/wiki/Q11424> ;
+    rdfs:label "Der Sinn des Lebens"^^xsd:string ;
+    ns1:actor <http://www.wikidata.org/entity/Q166159>,
+        <http://www.wikidata.org/entity/Q181664>,
+        <http://www.wikidata.org/entity/Q210741>,
+        <http://www.wikidata.org/entity/Q223985>,
+        <http://www.wikidata.org/entity/Q238012>,
+        <http://www.wikidata.org/entity/Q239558>,
+        <http://www.wikidata.org/entity/Q24962>,
+        <http://www.wikidata.org/entity/Q25014>,
+        <http://www.wikidata.org/entity/Q25078>,
+        <http://www.wikidata.org/entity/Q325070> ;
+    ns1:genre <http://www.wikidata.org/entity/Q157443>,
+        <http://www.wikidata.org/entity/Q842256> .
+
+<http://www.wikidata.org/entity/Q25005> a <https://www.wikidata.org/wiki/Q11424> ;
+    rdfs:label "Rio Rita"^^xsd:string ;
+    ns1:actor <http://www.wikidata.org/entity/Q11833484>,
+        <http://www.wikidata.org/entity/Q1250327>,
+        <http://www.wikidata.org/entity/Q1288551>,
+        <http://www.wikidata.org/entity/Q234117>,
+        <http://www.wikidata.org/entity/Q23884>,
+        <http://www.wikidata.org/entity/Q23888>,
+        <http://www.wikidata.org/entity/Q2960091>,
+        <http://www.wikidata.org/entity/Q3317080>,
+        <http://www.wikidata.org/entity/Q443790>,
+        <http://www.wikidata.org/entity/Q4800331>,
+        <http://www.wikidata.org/entity/Q7177697>,
+        <http://www.wikidata.org/entity/Q952198> ;
+    ns1:genre <http://www.wikidata.org/entity/Q842256>,
+        <http://www.wikidata.org/entity/Q860626> .
+
+<http://www.wikidata.org/entity/Q25188> a <https://www.wikidata.org/wiki/Q11424> ;
+    rdfs:label "Inception"^^xsd:string ;
+    ns1:actor <http://www.wikidata.org/entity/Q1225469>,
+        <http://www.wikidata.org/entity/Q123351>,
+        <http://www.wikidata.org/entity/Q173399>,
+        <http://www.wikidata.org/entity/Q177311>,
+        <http://www.wikidata.org/entity/Q18415482>,
+        <http://www.wikidata.org/entity/Q18720063>,
+        <http://www.wikidata.org/entity/Q202589>,
+        <http://www.wikidata.org/entity/Q208026>,
+        <http://www.wikidata.org/entity/Q211553>,
+        <http://www.wikidata.org/entity/Q217137>,
+        <http://www.wikidata.org/entity/Q2397879>,
+        <http://www.wikidata.org/entity/Q269309>,
+        <http://www.wikidata.org/entity/Q299317>,
+        <http://www.wikidata.org/entity/Q3046377>,
+        <http://www.wikidata.org/entity/Q3507348>,
+        <http://www.wikidata.org/entity/Q3560613>,
+        <http://www.wikidata.org/entity/Q3573137>,
+        <http://www.wikidata.org/entity/Q38111>,
+        <http://www.wikidata.org/entity/Q386249>,
+        <http://www.wikidata.org/entity/Q532169>,
+        <http://www.wikidata.org/entity/Q8927> ;
+    ns1:genre <http://www.wikidata.org/entity/Q1200678>,
+        <http://www.wikidata.org/entity/Q20656232>,
+        <http://www.wikidata.org/entity/Q2484376> .
+
+<http://www.wikidata.org/entity/Q25454> a <https://www.wikidata.org/wiki/Q11424> ;
+    rdfs:label "Black Box BRD"^^xsd:string ;
+    ns1:actor <http://www.wikidata.org/entity/Q2518> ;
+    ns1:genre <http://www.wikidata.org/entity/Q645928>,
+        <http://www.wikidata.org/entity/Q93204> .
+
+<http://www.wikidata.org/entity/Q25460> a <https://www.wikidata.org/wiki/Q11424> ;
+    rdfs:label "36 Ansichten des Pic Saint-Loup"^^xsd:string ;
+    ns1:actor <http://www.wikidata.org/entity/Q212873>,
+        <http://www.wikidata.org/entity/Q2848242>,
+        <http://www.wikidata.org/entity/Q441071>,
+        <http://www.wikidata.org/entity/Q524544>,
+        <http://www.wikidata.org/entity/Q923461> ;
+    ns1:genre <http://www.wikidata.org/entity/Q130232> .
+
+<http://www.wikidata.org/entity/Q25506> a <https://www.wikidata.org/wiki/Q11424> ;
+    rdfs:label "Wir warten in Ashiya"^^xsd:string ;
+    ns1:actor <http://www.wikidata.org/entity/Q102813>,
+        <http://www.wikidata.org/entity/Q238884>,
+        <http://www.wikidata.org/entity/Q320036>,
+        <http://www.wikidata.org/entity/Q336841>,
+        <http://www.wikidata.org/entity/Q436678>,
+        <http://www.wikidata.org/entity/Q448282>,
+        <http://www.wikidata.org/entity/Q54476590>,
+        <http://www.wikidata.org/entity/Q720223> ;
+    ns1:genre <http://www.wikidata.org/entity/Q1054574>,
+        <http://www.wikidata.org/entity/Q130232>,
+        <http://www.wikidata.org/entity/Q319221> .
+
+<http://www.wikidata.org/entity/Q25508> a <https://www.wikidata.org/wiki/Q11424> ;
+    rdfs:label "Theater der Liebe"^^xsd:string ;
+    ns1:actor <http://www.wikidata.org/entity/Q212873>,
+        <http://www.wikidata.org/entity/Q230636>,
+        <http://www.wikidata.org/entity/Q375191>,
+        <http://www.wikidata.org/entity/Q3802331>,
+        <http://www.wikidata.org/entity/Q456761>,
+        <http://www.wikidata.org/entity/Q518457>,
+        <http://www.wikidata.org/entity/Q961525> ;
+    ns1:genre <http://www.wikidata.org/entity/Q130232> .
+
+<http://www.wikidata.org/entity/Q25511> a <https://www.wikidata.org/wiki/Q11424> ;
+    rdfs:label "Nordwestwind"^^xsd:string ;
+    ns1:actor <http://www.wikidata.org/entity/Q230636>,
+        <http://www.wikidata.org/entity/Q289068>,
+        <http://www.wikidata.org/entity/Q3015145>,
+        <http://www.wikidata.org/entity/Q321395>,
+        <http://www.wikidata.org/entity/Q3218005>,
+        <http://www.wikidata.org/entity/Q3587895>,
+        <http://www.wikidata.org/entity/Q952740> ;
+    ns1:genre <http://www.wikidata.org/entity/Q130232> .
+
+<http://www.wikidata.org/entity/Q25513> a <https://www.wikidata.org/wiki/Q11424> ;
+    rdfs:label "Paris gehört uns"^^xsd:string ;
+    ns1:actor <http://www.wikidata.org/entity/Q106326>,
+        <http://www.wikidata.org/entity/Q167475>,
+        <http://www.wikidata.org/entity/Q276369>,
+        <http://www.wikidata.org/entity/Q2848699>,
+        <http://www.wikidata.org/entity/Q2900264>,
+        <http://www.wikidata.org/entity/Q3013892>,
+        <http://www.wikidata.org/entity/Q3105220>,
+        <http://www.wikidata.org/entity/Q312258>,
+        <http://www.wikidata.org/entity/Q3131809>,
+        <http://www.wikidata.org/entity/Q3167807>,
+        <http://www.wikidata.org/entity/Q3169185>,
+        <http://www.wikidata.org/entity/Q3263894>,
+        <http://www.wikidata.org/entity/Q3282153>,
+        <http://www.wikidata.org/entity/Q3345938>,
+        <http://www.wikidata.org/entity/Q3370651>,
+        <http://www.wikidata.org/entity/Q370079>,
+        <http://www.wikidata.org/entity/Q53001>,
+        <http://www.wikidata.org/entity/Q55375>,
+        <http://www.wikidata.org/entity/Q936758> ;
+    ns1:genre <http://www.wikidata.org/entity/Q130232> .
+
+<http://www.wikidata.org/entity/Q25518> a <https://www.wikidata.org/wiki/Q11424> ;
+    rdfs:label "Karisuma"^^xsd:string ;
+    ns1:actor <http://www.wikidata.org/entity/Q1138332>,
+        <http://www.wikidata.org/entity/Q2699910>,
+        <http://www.wikidata.org/entity/Q3547298>,
+        <http://www.wikidata.org/entity/Q3548603>,
+        <http://www.wikidata.org/entity/Q873539>,
+        <http://www.wikidata.org/entity/Q873810>,
+        <http://www.wikidata.org/entity/Q975146> ;
+    ns1:genre <http://www.wikidata.org/entity/Q130232> .
+
+<http://www.wikidata.org/entity/Q25519> a <https://www.wikidata.org/wiki/Q11424> ;
+    rdfs:label "Merry-Go-Round"^^xsd:string ;
+    ns1:actor <http://www.wikidata.org/entity/Q1295222>,
+        <http://www.wikidata.org/entity/Q16028184>,
+        <http://www.wikidata.org/entity/Q1684856>,
+        <http://www.wikidata.org/entity/Q224071>,
+        <http://www.wikidata.org/entity/Q257752>,
+        <http://www.wikidata.org/entity/Q276369>,
+        <http://www.wikidata.org/entity/Q2896144>,
+        <http://www.wikidata.org/entity/Q3015145>,
+        <http://www.wikidata.org/entity/Q321395>,
+        <http://www.wikidata.org/entity/Q3309012>,
+        <http://www.wikidata.org/entity/Q3367664>,
+        <http://www.wikidata.org/entity/Q553454> ;
+    ns1:genre <http://www.wikidata.org/entity/Q130232>,
+        <http://www.wikidata.org/entity/Q959790> .
+
+<http://www.wikidata.org/entity/Q25521> a <https://www.wikidata.org/wiki/Q11424> ;
+    rdfs:label "Das Testament des Orpheus"^^xsd:string ;
+    ns1:actor <http://www.wikidata.org/entity/Q102813>,
+        <http://www.wikidata.org/entity/Q168359>,
+        <http://www.wikidata.org/entity/Q1785>,
+        <http://www.wikidata.org/entity/Q267724>,
+        <http://www.wikidata.org/entity/Q269832>,
+        <http://www.wikidata.org/entity/Q270834>,
+        <http://www.wikidata.org/entity/Q295834>,
+        <http://www.wikidata.org/entity/Q360420>,
+        <http://www.wikidata.org/entity/Q36268>,
+        <http://www.wikidata.org/entity/Q5593>,
+        <http://www.wikidata.org/entity/Q83158> ;
+    ns1:genre <http://www.wikidata.org/entity/Q130232> .
+
+<http://www.wikidata.org/entity/Q2875> a <https://www.wikidata.org/wiki/Q11424> ;
+    rdfs:label "Vom Winde verweht"^^xsd:string ;
+    ns1:actor <http://www.wikidata.org/entity/Q12060557>,
+        <http://www.wikidata.org/entity/Q1280760>,
+        <http://www.wikidata.org/entity/Q1367933>,
+        <http://www.wikidata.org/entity/Q1375849>,
+        <http://www.wikidata.org/entity/Q1397384>,
+        <http://www.wikidata.org/entity/Q1577419>,
+        <http://www.wikidata.org/entity/Q1677441>,
+        <http://www.wikidata.org/entity/Q1751027>,
+        <http://www.wikidata.org/entity/Q1767677>,
+        <http://www.wikidata.org/entity/Q18811009>,
+        <http://www.wikidata.org/entity/Q1968576>,
+        <http://www.wikidata.org/entity/Q20082209>,
+        <http://www.wikidata.org/entity/Q20684633>,
+        <http://www.wikidata.org/entity/Q20738374>,
+        <http://www.wikidata.org/entity/Q20819281>,
+        <http://www.wikidata.org/entity/Q20973965>,
+        <http://www.wikidata.org/entity/Q2412911>,
+        <http://www.wikidata.org/entity/Q2831802>,
+        <http://www.wikidata.org/entity/Q3013243>,
+        <http://www.wikidata.org/entity/Q3057212>,
+        <http://www.wikidata.org/entity/Q3101763>,
+        <http://www.wikidata.org/entity/Q3116093>,
+        <http://www.wikidata.org/entity/Q3140441>,
+        <http://www.wikidata.org/entity/Q316003>,
+        <http://www.wikidata.org/entity/Q317026>,
+        <http://www.wikidata.org/entity/Q3236787>,
+        <http://www.wikidata.org/entity/Q3293960>,
+        <http://www.wikidata.org/entity/Q3357030>,
+        <http://www.wikidata.org/entity/Q3371485>,
+        <http://www.wikidata.org/entity/Q342537>,
+        <http://www.wikidata.org/entity/Q3435044>,
+        <http://www.wikidata.org/entity/Q3442320>,
+        <http://www.wikidata.org/entity/Q3568410>,
+        <http://www.wikidata.org/entity/Q363809>,
+        <http://www.wikidata.org/entity/Q4261959>,
+        <http://www.wikidata.org/entity/Q4280517>,
+        <http://www.wikidata.org/entity/Q437429>,
+        <http://www.wikidata.org/entity/Q437443>,
+        <http://www.wikidata.org/entity/Q459786>,
+        <http://www.wikidata.org/entity/Q469123>,
+        <http://www.wikidata.org/entity/Q5210673>,
+        <http://www.wikidata.org/entity/Q5321717>,
+        <http://www.wikidata.org/entity/Q5336640>,
+        <http://www.wikidata.org/entity/Q5416982>,
+        <http://www.wikidata.org/entity/Q5485887>,
+        <http://www.wikidata.org/entity/Q5540128>,
+        <http://www.wikidata.org/entity/Q563665>,
+        <http://www.wikidata.org/entity/Q6548149>,
+        <http://www.wikidata.org/entity/Q656804>,
+        <http://www.wikidata.org/entity/Q6687485>,
+        <http://www.wikidata.org/entity/Q71243>,
+        <http://www.wikidata.org/entity/Q713929>,
+        <http://www.wikidata.org/entity/Q744955>,
+        <http://www.wikidata.org/entity/Q7963129>,
+        <http://www.wikidata.org/entity/Q8462262>,
+        <http://www.wikidata.org/entity/Q8879489>,
+        <http://www.wikidata.org/entity/Q912559>,
+        <http://www.wikidata.org/entity/Q950376>,
+        <http://www.wikidata.org/entity/Q95068>,
+        <http://www.wikidata.org/entity/Q951224>,
+        <http://www.wikidata.org/entity/Q957673>,
+        <http://www.wikidata.org/entity/Q967922> ;
+    ns1:genre <http://www.wikidata.org/entity/Q1054574>,
+        <http://www.wikidata.org/entity/Q130232>,
+        <http://www.wikidata.org/entity/Q17013749>,
+        <http://www.wikidata.org/entity/Q191489>,
+        <http://www.wikidata.org/entity/Q369747>,
+        <http://www.wikidata.org/entity/Q52207399> .
+
+<http://www.wikidata.org/entity/Q3187> a <https://www.wikidata.org/wiki/Q11424> ;
+    rdfs:label "Als Jim Dolan kam"^^xsd:string ;
+    ns1:actor <http://www.wikidata.org/entity/Q28599513> ;
+    ns1:genre <http://www.wikidata.org/entity/Q491158> .
+
+<http://www.wikidata.org/entity/Q3208> a <https://www.wikidata.org/wiki/Q11424> ;
+    rdfs:label "Alien Raiders"^^xsd:string ;
+    ns1:actor <http://www.wikidata.org/entity/Q1189095>,
+        <http://www.wikidata.org/entity/Q1289810>,
+        <http://www.wikidata.org/entity/Q2374597>,
+        <http://www.wikidata.org/entity/Q313793>,
+        <http://www.wikidata.org/entity/Q314508>,
+        <http://www.wikidata.org/entity/Q3180253>,
+        <http://www.wikidata.org/entity/Q451394> ;
+    ns1:genre <http://www.wikidata.org/entity/Q200092>,
+        <http://www.wikidata.org/entity/Q471839> .
+
+<http://www.wikidata.org/entity/Q3242> a <https://www.wikidata.org/wiki/Q11424> ;
+    rdfs:label "Die fürchterliche Furcht vor dem Fürchterlichen"^^xsd:string ;
+    ns1:actor <http://www.wikidata.org/entity/Q1378684>,
+        <http://www.wikidata.org/entity/Q238464>,
+        <http://www.wikidata.org/entity/Q274616>,
+        <http://www.wikidata.org/entity/Q3355676>,
+        <http://www.wikidata.org/entity/Q454790>,
+        <http://www.wikidata.org/entity/Q7129130>,
+        <http://www.wikidata.org/entity/Q7702118>,
+        <http://www.wikidata.org/entity/Q822377> ;
+    ns1:genre <http://www.wikidata.org/entity/Q157443> .
+
+<http://www.wikidata.org/entity/Q32535> a <https://www.wikidata.org/wiki/Q11424> ;
+    rdfs:label "Der Chaos-Dad"^^xsd:string ;
+    ns1:actor <http://www.wikidata.org/entity/Q1319744>,
+        <http://www.wikidata.org/entity/Q132952>,
+        <http://www.wikidata.org/entity/Q133050>,
+        <http://www.wikidata.org/entity/Q16240674>,
+        <http://www.wikidata.org/entity/Q16935140>,
+        <http://www.wikidata.org/entity/Q199931>,
+        <http://www.wikidata.org/entity/Q203223>,
+        <http://www.wikidata.org/entity/Q260184>,
+        <http://www.wikidata.org/entity/Q2618003>,
+        <http://www.wikidata.org/entity/Q261977>,
+        <http://www.wikidata.org/entity/Q2633474>,
+        <http://www.wikidata.org/entity/Q2743544>,
+        <http://www.wikidata.org/entity/Q277895>,
+        <http://www.wikidata.org/entity/Q2844979>,
+        <http://www.wikidata.org/entity/Q296537>,
+        <http://www.wikidata.org/entity/Q313578>,
+        <http://www.wikidata.org/entity/Q314640>,
+        <http://www.wikidata.org/entity/Q3303794>,
+        <http://www.wikidata.org/entity/Q3421714>,
+        <http://www.wikidata.org/entity/Q352233>,
+        <http://www.wikidata.org/entity/Q3530789>,
+        <http://www.wikidata.org/entity/Q443063>,
+        <http://www.wikidata.org/entity/Q461637>,
+        <http://www.wikidata.org/entity/Q5214175>,
+        <http://www.wikidata.org/entity/Q5617048>,
+        <http://www.wikidata.org/entity/Q779416>,
+        <http://www.wikidata.org/entity/Q83733>,
+        <http://www.wikidata.org/entity/Q95043>,
+        <http://www.wikidata.org/entity/Q984077> ;
+    ns1:genre <http://www.wikidata.org/entity/Q157443>,
+        <http://www.wikidata.org/entity/Q859369> .
+
+<http://www.wikidata.org/entity/Q32686> a <https://www.wikidata.org/wiki/Q11424> ;
+    rdfs:label "Wo bist Du, meine Sulfija?"^^xsd:string ;
+    ns1:actor <http://www.wikidata.org/entity/Q10796756>,
+        <http://www.wikidata.org/entity/Q4099944> ;
+    ns1:genre <http://www.wikidata.org/entity/Q157443>,
+        <http://www.wikidata.org/entity/Q842256> .
+
+<http://www.wikidata.org/entity/Q32734> a <https://www.wikidata.org/wiki/Q11424> ;
+    rdfs:label "Kalter Schweiß"^^xsd:string ;
+    ns1:actor <http://www.wikidata.org/entity/Q175571>,
+        <http://www.wikidata.org/entity/Q191064>,
+        <http://www.wikidata.org/entity/Q209186>,
+        <http://www.wikidata.org/entity/Q2110802>,
+        <http://www.wikidata.org/entity/Q3370684>,
+        <http://www.wikidata.org/entity/Q3460575>,
+        <http://www.wikidata.org/entity/Q36105>,
+        <http://www.wikidata.org/entity/Q555379>,
+        <http://www.wikidata.org/entity/Q62257>,
+        <http://www.wikidata.org/entity/Q735221>,
+        <http://www.wikidata.org/entity/Q890204> ;
+    ns1:genre <http://www.wikidata.org/entity/Q188473>,
+        <http://www.wikidata.org/entity/Q959790> .
+
+<http://www.wikidata.org/entity/Q32786> a <https://www.wikidata.org/wiki/Q11424> ;
+    rdfs:label "916"^^xsd:string ;
+    ns1:actor <http://www.wikidata.org/entity/Q4770059> ;
+    ns1:genre <http://www.wikidata.org/entity/Q130232> .
+
+<http://www.wikidata.org/entity/Q32790> a <https://www.wikidata.org/wiki/Q11424> ;
+    rdfs:label "Rivalen unter roter Sonne"^^xsd:string ;
+    ns1:actor <http://www.wikidata.org/entity/Q106529>,
+        <http://www.wikidata.org/entity/Q1109046>,
+        <http://www.wikidata.org/entity/Q1433036>,
+        <http://www.wikidata.org/entity/Q1553604>,
+        <http://www.wikidata.org/entity/Q1709266>,
+        <http://www.wikidata.org/entity/Q1709538>,
+        <http://www.wikidata.org/entity/Q211111>,
+        <http://www.wikidata.org/entity/Q256466>,
+        <http://www.wikidata.org/entity/Q36105>,
+        <http://www.wikidata.org/entity/Q37001>,
+        <http://www.wikidata.org/entity/Q442525>,
+        <http://www.wikidata.org/entity/Q573128>,
+        <http://www.wikidata.org/entity/Q809220> ;
+    ns1:genre <http://www.wikidata.org/entity/Q172980> .
+
+<http://www.wikidata.org/entity/Q32910> a <https://www.wikidata.org/wiki/Q11424> ;
+    rdfs:label "Domino"^^xsd:string ;
+    ns1:actor <http://www.wikidata.org/entity/Q1390865>,
+        <http://www.wikidata.org/entity/Q1394891>,
+        <http://www.wikidata.org/entity/Q1677114>,
+        <http://www.wikidata.org/entity/Q178552>,
+        <http://www.wikidata.org/entity/Q184805>,
+        <http://www.wikidata.org/entity/Q185051>,
+        <http://www.wikidata.org/entity/Q188375>,
+        <http://www.wikidata.org/entity/Q2061785>,
+        <http://www.wikidata.org/entity/Q223303>,
+        <http://www.wikidata.org/entity/Q229169>,
+        <http://www.wikidata.org/entity/Q232456>,
+        <http://www.wikidata.org/entity/Q232477>,
+        <http://www.wikidata.org/entity/Q2487180>,
+        <http://www.wikidata.org/entity/Q27214>,
+        <http://www.wikidata.org/entity/Q273788>,
+        <http://www.wikidata.org/entity/Q2866550>,
+        <http://www.wikidata.org/entity/Q287596>,
+        <http://www.wikidata.org/entity/Q313311>,
+        <http://www.wikidata.org/entity/Q313516>,
+        <http://www.wikidata.org/entity/Q3237275>,
+        <http://www.wikidata.org/entity/Q3482458>,
+        <http://www.wikidata.org/entity/Q352233>,
+        <http://www.wikidata.org/entity/Q359873>,
+        <http://www.wikidata.org/entity/Q362559>,
+        <http://www.wikidata.org/entity/Q42581>,
+        <http://www.wikidata.org/entity/Q446717>,
+        <http://www.wikidata.org/entity/Q5081494>,
+        <http://www.wikidata.org/entity/Q6547622>,
+        <http://www.wikidata.org/entity/Q948751> ;
+    ns1:genre <http://www.wikidata.org/entity/Q188473>,
+        <http://www.wikidata.org/entity/Q19367312>,
+        <http://www.wikidata.org/entity/Q645928> .
+
+<http://www.wikidata.org/entity/Q35738> a <https://www.wikidata.org/wiki/Q11424> ;
+    rdfs:label "Frida"^^xsd:string ;
+    ns1:actor <http://www.wikidata.org/entity/Q1654251>,
+        <http://www.wikidata.org/entity/Q1750774>,
+        <http://www.wikidata.org/entity/Q230710>,
+        <http://www.wikidata.org/entity/Q232419>,
+        <http://www.wikidata.org/entity/Q236024>,
+        <http://www.wikidata.org/entity/Q256649>,
+        <http://www.wikidata.org/entity/Q264565>,
+        <http://www.wikidata.org/entity/Q296028>,
+        <http://www.wikidata.org/entity/Q313044>,
+        <http://www.wikidata.org/entity/Q335579>,
+        <http://www.wikidata.org/entity/Q3369148>,
+        <http://www.wikidata.org/entity/Q459465>,
+        <http://www.wikidata.org/entity/Q4760237>,
+        <http://www.wikidata.org/entity/Q5954765>,
+        <http://www.wikidata.org/entity/Q5997112>,
+        <http://www.wikidata.org/entity/Q6371030> ;
+    ns1:genre <http://www.wikidata.org/entity/Q20442589>,
+        <http://www.wikidata.org/entity/Q52207310> .
+
+<http://www.wikidata.org/entity/Q3589> a <https://www.wikidata.org/wiki/Q11424> ;
+    rdfs:label "Der Manchurian Kandidat"^^xsd:string ;
+    ns1:actor <http://www.wikidata.org/entity/Q123206>,
+        <http://www.wikidata.org/entity/Q1366460>,
+        <http://www.wikidata.org/entity/Q167520>,
+        <http://www.wikidata.org/entity/Q16934903>,
+        <http://www.wikidata.org/entity/Q1699298>,
+        <http://www.wikidata.org/entity/Q188117>,
+        <http://www.wikidata.org/entity/Q19631403>,
+        <http://www.wikidata.org/entity/Q22754320>,
+        <http://www.wikidata.org/entity/Q22761566>,
+        <http://www.wikidata.org/entity/Q2558129>,
+        <http://www.wikidata.org/entity/Q26173>,
+        <http://www.wikidata.org/entity/Q264840>,
+        <http://www.wikidata.org/entity/Q2702964>,
+        <http://www.wikidata.org/entity/Q286777>,
+        <http://www.wikidata.org/entity/Q298368>,
+        <http://www.wikidata.org/entity/Q318292>,
+        <http://www.wikidata.org/entity/Q319084>,
+        <http://www.wikidata.org/entity/Q343059>,
+        <http://www.wikidata.org/entity/Q345212>,
+        <http://www.wikidata.org/entity/Q3469385>,
+        <http://www.wikidata.org/entity/Q350014>,
+        <http://www.wikidata.org/entity/Q3783517>,
+        <http://www.wikidata.org/entity/Q382197>,
+        <http://www.wikidata.org/entity/Q42101>,
+        <http://www.wikidata.org/entity/Q431356>,
+        <http://www.wikidata.org/entity/Q433520>,
+        <http://www.wikidata.org/entity/Q448975>,
+        <http://www.wikidata.org/entity/Q450346>,
+        <http://www.wikidata.org/entity/Q463497>,
+        <http://www.wikidata.org/entity/Q476760>,
+        <http://www.wikidata.org/entity/Q511554>,
+        <http://www.wikidata.org/entity/Q51559>,
+        <http://www.wikidata.org/entity/Q5224665>,
+        <http://www.wikidata.org/entity/Q529456>,
+        <http://www.wikidata.org/entity/Q603317>,
+        <http://www.wikidata.org/entity/Q6375835>,
+        <http://www.wikidata.org/entity/Q705602>,
+        <http://www.wikidata.org/entity/Q72749>,
+        <http://www.wikidata.org/entity/Q733776>,
+        <http://www.wikidata.org/entity/Q7350652>,
+        <http://www.wikidata.org/entity/Q873>,
+        <http://www.wikidata.org/entity/Q958532> ;
+    ns1:genre <http://www.wikidata.org/entity/Q130232>,
+        <http://www.wikidata.org/entity/Q2484376>,
+        <http://www.wikidata.org/entity/Q622291> .
+
+<http://www.wikidata.org/entity/Q36055> a <https://www.wikidata.org/wiki/Q11424> ;
+    rdfs:label "Grunts: The New Recruits"^^xsd:string ;
+    ns1:actor <http://www.wikidata.org/entity/Q1120176>,
+        <http://www.wikidata.org/entity/Q1282481>,
+        <http://www.wikidata.org/entity/Q1634240>,
+        <http://www.wikidata.org/entity/Q1996018>,
+        <http://www.wikidata.org/entity/Q3715442>,
+        <http://www.wikidata.org/entity/Q3998513> ;
+    ns1:genre <http://www.wikidata.org/entity/Q185529>,
+        <http://www.wikidata.org/entity/Q20442589> .
+
+<http://www.wikidata.org/entity/Q36739> a <https://www.wikidata.org/wiki/Q11424> ;
+    rdfs:label "Wenn der Postmann zweimal klingelt"^^xsd:string ;
+    ns1:actor <http://www.wikidata.org/entity/Q109324>,
+        <http://www.wikidata.org/entity/Q1701301>,
+        <http://www.wikidata.org/entity/Q173585>,
+        <http://www.wikidata.org/entity/Q1830242>,
+        <http://www.wikidata.org/entity/Q190998>,
+        <http://www.wikidata.org/entity/Q2424735>,
+        <http://www.wikidata.org/entity/Q322399>,
+        <http://www.wikidata.org/entity/Q3569002>,
+        <http://www.wikidata.org/entity/Q39792>,
+        <http://www.wikidata.org/entity/Q527303> ;
+    ns1:genre <http://www.wikidata.org/entity/Q1054574>,
+        <http://www.wikidata.org/entity/Q130232>,
+        <http://www.wikidata.org/entity/Q2421031>,
+        <http://www.wikidata.org/entity/Q52162262>,
+        <http://www.wikidata.org/entity/Q959790> .
+
+<http://www.wikidata.org/entity/Q372> a <https://www.wikidata.org/wiki/Q11424> ;
+    rdfs:label "We Live in Public"^^xsd:string ;
+    ns1:actor <http://www.wikidata.org/entity/Q6288962> ;
+    ns1:genre <http://www.wikidata.org/entity/Q93204> .
+
+<http://www.wikidata.org/entity/Q38143> a <https://www.wikidata.org/wiki/Q11424> ;
+    rdfs:label "Die Spur führt nach Soho"^^xsd:string ;
+    ns1:actor <http://www.wikidata.org/entity/Q102813>,
+        <http://www.wikidata.org/entity/Q126606>,
+        <http://www.wikidata.org/entity/Q133925>,
+        <http://www.wikidata.org/entity/Q15441011>,
+        <http://www.wikidata.org/entity/Q1738621>,
+        <http://www.wikidata.org/entity/Q2075846>,
+        <http://www.wikidata.org/entity/Q214245>,
+        <http://www.wikidata.org/entity/Q3072931>,
+        <http://www.wikidata.org/entity/Q3265830>,
+        <http://www.wikidata.org/entity/Q377450>,
+        <http://www.wikidata.org/entity/Q61552>,
+        <http://www.wikidata.org/entity/Q6220867>,
+        <http://www.wikidata.org/entity/Q712968>,
+        <http://www.wikidata.org/entity/Q961187> ;
+    ns1:genre <http://www.wikidata.org/entity/Q130232>,
+        <http://www.wikidata.org/entity/Q2484376> .
+
+<http://www.wikidata.org/entity/Q40074> a <https://www.wikidata.org/wiki/Q11424> ;
+    rdfs:label "Der Außenseiter"^^xsd:string ;
+    ns1:actor <http://www.wikidata.org/entity/Q2846666>,
+        <http://www.wikidata.org/entity/Q3195292>,
+        <http://www.wikidata.org/entity/Q3418797> ;
+    ns1:genre <http://www.wikidata.org/entity/Q1146335>,
+        <http://www.wikidata.org/entity/Q130232>,
+        <http://www.wikidata.org/entity/Q2975633>,
+        <http://www.wikidata.org/entity/Q93204> .
+
+<http://www.wikidata.org/entity/Q40115> a <https://www.wikidata.org/wiki/Q11424> ;
+    rdfs:label "Chasing Amy"^^xsd:string ;
+    ns1:actor <http://www.wikidata.org/entity/Q175535>,
+        <http://www.wikidata.org/entity/Q2012197>,
+        <http://www.wikidata.org/entity/Q22811239>,
+        <http://www.wikidata.org/entity/Q22920856>,
+        <http://www.wikidata.org/entity/Q237115>,
+        <http://www.wikidata.org/entity/Q2635391>,
+        <http://www.wikidata.org/entity/Q269669>,
+        <http://www.wikidata.org/entity/Q270730>,
+        <http://www.wikidata.org/entity/Q2939610>,
+        <http://www.wikidata.org/entity/Q314610>,
+        <http://www.wikidata.org/entity/Q316627>,
+        <http://www.wikidata.org/entity/Q3313196>,
+        <http://www.wikidata.org/entity/Q354010>,
+        <http://www.wikidata.org/entity/Q447584>,
+        <http://www.wikidata.org/entity/Q483118>,
+        <http://www.wikidata.org/entity/Q489831>,
+        <http://www.wikidata.org/entity/Q4960>,
+        <http://www.wikidata.org/entity/Q4964261>,
+        <http://www.wikidata.org/entity/Q4964545>,
+        <http://www.wikidata.org/entity/Q4980184>,
+        <http://www.wikidata.org/entity/Q5318153>,
+        <http://www.wikidata.org/entity/Q5393625>,
+        <http://www.wikidata.org/entity/Q6899972>,
+        <http://www.wikidata.org/entity/Q723672>,
+        <http://www.wikidata.org/entity/Q7932003>,
+        <http://www.wikidata.org/entity/Q7963966> ;
+    ns1:genre <http://www.wikidata.org/entity/Q157443>,
+        <http://www.wikidata.org/entity/Q859369>,
+        <http://www.wikidata.org/entity/Q860626> .
+
+<http://www.wikidata.org/entity/Q46717> a <https://www.wikidata.org/wiki/Q11424> ;
+    rdfs:label "Fluch der Karibik"^^xsd:string ;
+    ns1:actor <http://www.wikidata.org/entity/Q1029022>,
+        <http://www.wikidata.org/entity/Q1158461>,
+        <http://www.wikidata.org/entity/Q1332872>,
+        <http://www.wikidata.org/entity/Q13701277>,
+        <http://www.wikidata.org/entity/Q151168>,
+        <http://www.wikidata.org/entity/Q166272>,
+        <http://www.wikidata.org/entity/Q167774>,
+        <http://www.wikidata.org/entity/Q190162>,
+        <http://www.wikidata.org/entity/Q2006904>,
+        <http://www.wikidata.org/entity/Q28254>,
+        <http://www.wikidata.org/entity/Q2849808>,
+        <http://www.wikidata.org/entity/Q3017460>,
+        <http://www.wikidata.org/entity/Q310930>,
+        <http://www.wikidata.org/entity/Q312702>,
+        <http://www.wikidata.org/entity/Q3154735>,
+        <http://www.wikidata.org/entity/Q3265838>,
+        <http://www.wikidata.org/entity/Q335376>,
+        <http://www.wikidata.org/entity/Q3538544>,
+        <http://www.wikidata.org/entity/Q3559415>,
+        <http://www.wikidata.org/entity/Q37175>,
+        <http://www.wikidata.org/entity/Q42581>,
+        <http://www.wikidata.org/entity/Q44467>,
+        <http://www.wikidata.org/entity/Q447614>,
+        <http://www.wikidata.org/entity/Q5318772>,
+        <http://www.wikidata.org/entity/Q548163> ;
+    ns1:genre <http://www.wikidata.org/entity/Q157394>,
+        <http://www.wikidata.org/entity/Q157443>,
+        <http://www.wikidata.org/entity/Q188473>,
+        <http://www.wikidata.org/entity/Q222639> .
+
+<http://www.wikidata.org/entity/Q47221> a <https://www.wikidata.org/wiki/Q11424> ;
+    rdfs:label "Taxi Driver"^^xsd:string ;
+    ns1:actor <http://www.wikidata.org/entity/Q1586470>,
+        <http://www.wikidata.org/entity/Q175142>,
+        <http://www.wikidata.org/entity/Q191132>,
+        <http://www.wikidata.org/entity/Q20789791>,
+        <http://www.wikidata.org/entity/Q315123>,
+        <http://www.wikidata.org/entity/Q3229673>,
+        <http://www.wikidata.org/entity/Q356303>,
+        <http://www.wikidata.org/entity/Q36949>,
+        <http://www.wikidata.org/entity/Q3783517>,
+        <http://www.wikidata.org/entity/Q41148>,
+        <http://www.wikidata.org/entity/Q41351>,
+        <http://www.wikidata.org/entity/Q509192>,
+        <http://www.wikidata.org/entity/Q960676>,
+        <http://www.wikidata.org/entity/Q973065> ;
+    ns1:genre <http://www.wikidata.org/entity/Q130232>,
+        <http://www.wikidata.org/entity/Q2421031>,
+        <http://www.wikidata.org/entity/Q590103> .
+
+<http://www.wikidata.org/entity/Q47296> a <https://www.wikidata.org/wiki/Q11424> ;
+    rdfs:label "Familiengrab"^^xsd:string ;
+    ns1:actor <http://www.wikidata.org/entity/Q16886244>,
+        <http://www.wikidata.org/entity/Q179269>,
+        <http://www.wikidata.org/entity/Q232333>,
+        <http://www.wikidata.org/entity/Q2636696>,
+        <http://www.wikidata.org/entity/Q264713>,
+        <http://www.wikidata.org/entity/Q269809>,
+        <http://www.wikidata.org/entity/Q2789690>,
+        <http://www.wikidata.org/entity/Q3047620>,
+        <http://www.wikidata.org/entity/Q3080456>,
+        <http://www.wikidata.org/entity/Q329456>,
+        <http://www.wikidata.org/entity/Q3430837>,
+        <http://www.wikidata.org/entity/Q3566393>,
+        <http://www.wikidata.org/entity/Q357001>,
+        <http://www.wikidata.org/entity/Q36464123>,
+        <http://www.wikidata.org/entity/Q39972>,
+        <http://www.wikidata.org/entity/Q451880>,
+        <http://www.wikidata.org/entity/Q7374>,
+        <http://www.wikidata.org/entity/Q959202> ;
+    ns1:genre <http://www.wikidata.org/entity/Q1200678>,
+        <http://www.wikidata.org/entity/Q157443>,
+        <http://www.wikidata.org/entity/Q2484376> .
+
+<http://www.wikidata.org/entity/Q47654> a <https://www.wikidata.org/wiki/Q11424> ;
+    rdfs:label "Saturday Night Fever"^^xsd:string ;
+    ns1:actor <http://www.wikidata.org/entity/Q2442259>,
+        <http://www.wikidata.org/entity/Q2555929>,
+        <http://www.wikidata.org/entity/Q3023223>,
+        <http://www.wikidata.org/entity/Q3295634>,
+        <http://www.wikidata.org/entity/Q3833364>,
+        <http://www.wikidata.org/entity/Q4978093> ;
+    ns1:genre <http://www.wikidata.org/entity/Q2975633> .
+
+<http://www.wikidata.org/entity/Q47703> a <https://www.wikidata.org/wiki/Q11424> ;
+    rdfs:label "Der Pate"^^xsd:string ;
+    ns1:actor <http://www.wikidata.org/entity/Q102642>,
+        <http://www.wikidata.org/entity/Q108622>,
+        <http://www.wikidata.org/entity/Q171736>,
+        <http://www.wikidata.org/entity/Q193628>,
+        <http://www.wikidata.org/entity/Q245808>,
+        <http://www.wikidata.org/entity/Q296177>,
+        <http://www.wikidata.org/entity/Q318220>,
+        <http://www.wikidata.org/entity/Q323166>,
+        <http://www.wikidata.org/entity/Q34012>,
+        <http://www.wikidata.org/entity/Q376261>,
+        <http://www.wikidata.org/entity/Q380872>,
+        <http://www.wikidata.org/entity/Q41163>,
+        <http://www.wikidata.org/entity/Q95043> ;
+    ns1:genre <http://www.wikidata.org/entity/Q130232>,
+        <http://www.wikidata.org/entity/Q52207399>,
+        <http://www.wikidata.org/entity/Q7444356>,
+        <http://www.wikidata.org/entity/Q959790> .
+
+<http://www.wikidata.org/entity/Q49396> a <https://www.wikidata.org/wiki/Q11424> ;
+    rdfs:label "Einsam sind die Tapferen"^^xsd:string ;
+    ns1:actor <http://www.wikidata.org/entity/Q104027>,
+        <http://www.wikidata.org/entity/Q1332676>,
+        <http://www.wikidata.org/entity/Q14972>,
+        <http://www.wikidata.org/entity/Q202172>,
+        <http://www.wikidata.org/entity/Q229258>,
+        <http://www.wikidata.org/entity/Q298818>,
+        <http://www.wikidata.org/entity/Q3127855>,
+        <http://www.wikidata.org/entity/Q498503>,
+        <http://www.wikidata.org/entity/Q555487>,
+        <http://www.wikidata.org/entity/Q690569> ;
+    ns1:genre <http://www.wikidata.org/entity/Q172980>,
+        <http://www.wikidata.org/entity/Q52162262> .
+
+<http://www.wikidata.org/entity/Q49398> a <https://www.wikidata.org/wiki/Q11424> ;
+    rdfs:label "Die schwarze Windmühle"^^xsd:string ;
+    ns1:actor <http://www.wikidata.org/entity/Q1174148>,
+        <http://www.wikidata.org/entity/Q1187605>,
+        <http://www.wikidata.org/entity/Q123351>,
+        <http://www.wikidata.org/entity/Q16455>,
+        <http://www.wikidata.org/entity/Q261456>,
+        <http://www.wikidata.org/entity/Q271867>,
+        <http://www.wikidata.org/entity/Q314914>,
+        <http://www.wikidata.org/entity/Q3158547>,
+        <http://www.wikidata.org/entity/Q3369214>,
+        <http://www.wikidata.org/entity/Q3439224>,
+        <http://www.wikidata.org/entity/Q3573442>,
+        <http://www.wikidata.org/entity/Q3951975>,
+        <http://www.wikidata.org/entity/Q443030>,
+        <http://www.wikidata.org/entity/Q463051>,
+        <http://www.wikidata.org/entity/Q471879>,
+        <http://www.wikidata.org/entity/Q6238133>,
+        <http://www.wikidata.org/entity/Q657541>,
+        <http://www.wikidata.org/entity/Q7241928>,
+        <http://www.wikidata.org/entity/Q725399>,
+        <http://www.wikidata.org/entity/Q739257>,
+        <http://www.wikidata.org/entity/Q952060> ;
+    ns1:genre <http://www.wikidata.org/entity/Q2297927>,
+        <http://www.wikidata.org/entity/Q52207399> .
+
+<http://www.wikidata.org/entity/Q49410> a <https://www.wikidata.org/wiki/Q11424> ;
+    rdfs:label "Die Superprofis"^^xsd:string ;
+    ns1:actor <http://www.wikidata.org/entity/Q124930>,
+        <http://www.wikidata.org/entity/Q16455>,
+        <http://www.wikidata.org/entity/Q166422>,
+        <http://www.wikidata.org/entity/Q181917>,
+        <http://www.wikidata.org/entity/Q2409879>,
+        <http://www.wikidata.org/entity/Q241115>,
+        <http://www.wikidata.org/entity/Q310934>,
+        <http://www.wikidata.org/entity/Q492169>,
+        <http://www.wikidata.org/entity/Q59314> ;
+    ns1:genre <http://www.wikidata.org/entity/Q496523> .
+
+<http://www.wikidata.org/entity/Q49498> a <https://www.wikidata.org/wiki/Q11424> ;
+    rdfs:label "Deep Impact"^^xsd:string ;
+    ns1:actor <http://www.wikidata.org/entity/Q1200141>,
+        <http://www.wikidata.org/entity/Q1278666>,
+        <http://www.wikidata.org/entity/Q153018>,
+        <http://www.wikidata.org/entity/Q171736>,
+        <http://www.wikidata.org/entity/Q202475>,
+        <http://www.wikidata.org/entity/Q229228>,
+        <http://www.wikidata.org/entity/Q234474>,
+        <http://www.wikidata.org/entity/Q235503>,
+        <http://www.wikidata.org/entity/Q242650>,
+        <http://www.wikidata.org/entity/Q254552>,
+        <http://www.wikidata.org/entity/Q295964>,
+        <http://www.wikidata.org/entity/Q299483>,
+        <http://www.wikidata.org/entity/Q317228>,
+        <http://www.wikidata.org/entity/Q347879>,
+        <http://www.wikidata.org/entity/Q355209>,
+        <http://www.wikidata.org/entity/Q435652>,
+        <http://www.wikidata.org/entity/Q442300>,
+        <http://www.wikidata.org/entity/Q452788>,
+        <http://www.wikidata.org/entity/Q462903>,
+        <http://www.wikidata.org/entity/Q464857>,
+        <http://www.wikidata.org/entity/Q465482>,
+        <http://www.wikidata.org/entity/Q48337>,
+        <http://www.wikidata.org/entity/Q483771>,
+        <http://www.wikidata.org/entity/Q512376>,
+        <http://www.wikidata.org/entity/Q525304>,
+        <http://www.wikidata.org/entity/Q540235>,
+        <http://www.wikidata.org/entity/Q558793>,
+        <http://www.wikidata.org/entity/Q703484>,
+        <http://www.wikidata.org/entity/Q723996>,
+        <http://www.wikidata.org/entity/Q725034>,
+        <http://www.wikidata.org/entity/Q730100> ;
+    ns1:genre <http://www.wikidata.org/entity/Q130232> .
+
+<http://www.wikidata.org/entity/Q51173> a <https://www.wikidata.org/wiki/Q11424> ;
+    rdfs:label "War of the Wizards"^^xsd:string ;
+    ns1:actor <http://www.wikidata.org/entity/Q4132779>,
+        <http://www.wikidata.org/entity/Q489204> ;
+    ns1:genre <http://www.wikidata.org/entity/Q188473> .
+
+<http://www.wikidata.org/entity/Q51416> a <https://www.wikidata.org/wiki/Q11424> ;
+    rdfs:label "Men in Black"^^xsd:string ;
+    ns1:actor <http://www.wikidata.org/entity/Q107249>,
+        <http://www.wikidata.org/entity/Q1319770>,
+        <http://www.wikidata.org/entity/Q1364838>,
+        <http://www.wikidata.org/entity/Q1373335>,
+        <http://www.wikidata.org/entity/Q1673431>,
+        <http://www.wikidata.org/entity/Q16934948>,
+        <http://www.wikidata.org/entity/Q170587>,
+        <http://www.wikidata.org/entity/Q1942940>,
+        <http://www.wikidata.org/entity/Q1961421>,
+        <http://www.wikidata.org/entity/Q1986671>,
+        <http://www.wikidata.org/entity/Q204393>,
+        <http://www.wikidata.org/entity/Q2057449>,
+        <http://www.wikidata.org/entity/Q2313940>,
+        <http://www.wikidata.org/entity/Q234695>,
+        <http://www.wikidata.org/entity/Q26806>,
+        <http://www.wikidata.org/entity/Q271471>,
+        <http://www.wikidata.org/entity/Q3020806>,
+        <http://www.wikidata.org/entity/Q313522>,
+        <http://www.wikidata.org/entity/Q317567>,
+        <http://www.wikidata.org/entity/Q320052>,
+        <http://www.wikidata.org/entity/Q3240869>,
+        <http://www.wikidata.org/entity/Q3528590>,
+        <http://www.wikidata.org/entity/Q362332>,
+        <http://www.wikidata.org/entity/Q38222>,
+        <http://www.wikidata.org/entity/Q40026>,
+        <http://www.wikidata.org/entity/Q40096>,
+        <http://www.wikidata.org/entity/Q457991>,
+        <http://www.wikidata.org/entity/Q496503>,
+        <http://www.wikidata.org/entity/Q8877> ;
+    ns1:genre <http://www.wikidata.org/entity/Q157443>,
+        <http://www.wikidata.org/entity/Q188473>,
+        <http://www.wikidata.org/entity/Q471839>,
+        <http://www.wikidata.org/entity/Q4984974>,
+        <http://www.wikidata.org/entity/Q663106> .
+
+<http://www.wikidata.org/entity/Q51668> a <https://www.wikidata.org/wiki/Q11424> ;
+    rdfs:label "Die Passion Christi"^^xsd:string ;
+    ns1:actor <http://www.wikidata.org/entity/Q1141628>,
+        <http://www.wikidata.org/entity/Q1441013>,
+        <http://www.wikidata.org/entity/Q1617703>,
+        <http://www.wikidata.org/entity/Q1683706>,
+        <http://www.wikidata.org/entity/Q178077>,
+        <http://www.wikidata.org/entity/Q200841>,
+        <http://www.wikidata.org/entity/Q274314>,
+        <http://www.wikidata.org/entity/Q2821516>,
+        <http://www.wikidata.org/entity/Q325768>,
+        <http://www.wikidata.org/entity/Q3616970>,
+        <http://www.wikidata.org/entity/Q3703573>,
+        <http://www.wikidata.org/entity/Q3724385>,
+        <http://www.wikidata.org/entity/Q3761901>,
+        <http://www.wikidata.org/entity/Q3768347>,
+        <http://www.wikidata.org/entity/Q3770822>,
+        <http://www.wikidata.org/entity/Q468793>,
+        <http://www.wikidata.org/entity/Q472414>,
+        <http://www.wikidata.org/entity/Q697816>,
+        <http://www.wikidata.org/entity/Q81819>,
+        <http://www.wikidata.org/entity/Q919572>,
+        <http://www.wikidata.org/entity/Q961078> ;
+    ns1:genre <http://www.wikidata.org/entity/Q130232>,
+        <http://www.wikidata.org/entity/Q17013749>,
+        <http://www.wikidata.org/entity/Q645928> .
+
+<http://www.wikidata.org/entity/Q593> a <https://www.wikidata.org/wiki/Q11424> ;
+    rdfs:label "A Gang Story – Eine Frage der Ehre"^^xsd:string ;
+    ns1:actor <http://www.wikidata.org/entity/Q1558999>,
+        <http://www.wikidata.org/entity/Q17521763>,
+        <http://www.wikidata.org/entity/Q289524>,
+        <http://www.wikidata.org/entity/Q3028147>,
+        <http://www.wikidata.org/entity/Q3158492>,
+        <http://www.wikidata.org/entity/Q317704>,
+        <http://www.wikidata.org/entity/Q3219419>,
+        <http://www.wikidata.org/entity/Q3241976>,
+        <http://www.wikidata.org/entity/Q3350901>,
+        <http://www.wikidata.org/entity/Q3351313>,
+        <http://www.wikidata.org/entity/Q3369315>,
+        <http://www.wikidata.org/entity/Q3484193>,
+        <http://www.wikidata.org/entity/Q3553690>,
+        <http://www.wikidata.org/entity/Q37798753>,
+        <http://www.wikidata.org/entity/Q658664>,
+        <http://www.wikidata.org/entity/Q778573>,
+        <http://www.wikidata.org/entity/Q932338>,
+        <http://www.wikidata.org/entity/Q939089> ;
+    ns1:genre <http://www.wikidata.org/entity/Q130232>,
+        <http://www.wikidata.org/entity/Q185867>,
+        <http://www.wikidata.org/entity/Q2421031>,
+        <http://www.wikidata.org/entity/Q496523>,
+        <http://www.wikidata.org/entity/Q959790> .
+
+<http://www.wikidata.org/entity/Q595> a <https://www.wikidata.org/wiki/Q11424> ;
+    rdfs:label "Ziemlich beste Freunde"^^xsd:string ;
+    ns1:actor <http://www.wikidata.org/entity/Q1044462>,
+        <http://www.wikidata.org/entity/Q15069878>,
+        <http://www.wikidata.org/entity/Q15146875>,
+        <http://www.wikidata.org/entity/Q16685232>,
+        <http://www.wikidata.org/entity/Q17352673>,
+        <http://www.wikidata.org/entity/Q18326681>,
+        <http://www.wikidata.org/entity/Q20723802>,
+        <http://www.wikidata.org/entity/Q2830742>,
+        <http://www.wikidata.org/entity/Q2851174>,
+        <http://www.wikidata.org/entity/Q2979699>,
+        <http://www.wikidata.org/entity/Q3009038>,
+        <http://www.wikidata.org/entity/Q3084132>,
+        <http://www.wikidata.org/entity/Q3084174>,
+        <http://www.wikidata.org/entity/Q3118485>,
+        <http://www.wikidata.org/entity/Q3165518>,
+        <http://www.wikidata.org/entity/Q3191017>,
+        <http://www.wikidata.org/entity/Q3380569>,
+        <http://www.wikidata.org/entity/Q3525573>,
+        <http://www.wikidata.org/entity/Q357387>,
+        <http://www.wikidata.org/entity/Q457089>,
+        <http://www.wikidata.org/entity/Q511485>,
+        <http://www.wikidata.org/entity/Q600051> ;
+    ns1:genre <http://www.wikidata.org/entity/Q130232>,
+        <http://www.wikidata.org/entity/Q157443>,
+        <http://www.wikidata.org/entity/Q52162262>,
+        <http://www.wikidata.org/entity/Q645928> .
+
+<http://www.wikidata.org/entity/Q59501> a <https://www.wikidata.org/wiki/Q11424> ;
+    rdfs:label "Mauvaise passe"^^xsd:string ;
+    ns1:actor <http://www.wikidata.org/entity/Q106303>,
+        <http://www.wikidata.org/entity/Q2929408>,
+        <http://www.wikidata.org/entity/Q342617>,
+        <http://www.wikidata.org/entity/Q3496665>,
+        <http://www.wikidata.org/entity/Q363525>,
+        <http://www.wikidata.org/entity/Q5478514>,
+        <http://www.wikidata.org/entity/Q563177> ;
+    ns1:genre <http://www.wikidata.org/entity/Q130232> .
+
+<http://www.wikidata.org/entity/Q59502> a <https://www.wikidata.org/wiki/Q11424> ;
+    rdfs:label "Kleine Wunden"^^xsd:string ;
+    ns1:actor <http://www.wikidata.org/entity/Q106225>,
+        <http://www.wikidata.org/entity/Q106303>,
+        <http://www.wikidata.org/entity/Q1871396>,
+        <http://www.wikidata.org/entity/Q208590>,
+        <http://www.wikidata.org/entity/Q233742>,
+        <http://www.wikidata.org/entity/Q241043>,
+        <http://www.wikidata.org/entity/Q2829468>,
+        <http://www.wikidata.org/entity/Q2830037>,
+        <http://www.wikidata.org/entity/Q3028270>,
+        <http://www.wikidata.org/entity/Q3190717>,
+        <http://www.wikidata.org/entity/Q441684>,
+        <http://www.wikidata.org/entity/Q443835>,
+        <http://www.wikidata.org/entity/Q67881> ;
+    ns1:genre <http://www.wikidata.org/entity/Q130232> .
+
+<http://www.wikidata.org/entity/Q59503> a <https://www.wikidata.org/wiki/Q11424> ;
+    rdfs:label "Meine Schwester"^^xsd:string ;
+    ns1:actor <http://www.wikidata.org/entity/Q1006624>,
+        <http://www.wikidata.org/entity/Q285431>,
+        <http://www.wikidata.org/entity/Q3386773>,
+        <http://www.wikidata.org/entity/Q449082>,
+        <http://www.wikidata.org/entity/Q465998>,
+        <http://www.wikidata.org/entity/Q653724> ;
+    ns1:genre <http://www.wikidata.org/entity/Q1135802>,
+        <http://www.wikidata.org/entity/Q130232>,
+        <http://www.wikidata.org/entity/Q2975633> .
+
+<http://www.wikidata.org/entity/Q59530> a <https://www.wikidata.org/wiki/Q11424> ;
+    rdfs:label "Was Frauen wirklich wollen"^^xsd:string ;
+    ns1:actor <http://www.wikidata.org/entity/Q1341507>,
+        <http://www.wikidata.org/entity/Q1451117>,
+        <http://www.wikidata.org/entity/Q2413166>,
+        <http://www.wikidata.org/entity/Q2826475>,
+        <http://www.wikidata.org/entity/Q288318>,
+        <http://www.wikidata.org/entity/Q2925481>,
+        <http://www.wikidata.org/entity/Q2941915>,
+        <http://www.wikidata.org/entity/Q3219022>,
+        <http://www.wikidata.org/entity/Q3369315>,
+        <http://www.wikidata.org/entity/Q3379770>,
+        <http://www.wikidata.org/entity/Q518474>,
+        <http://www.wikidata.org/entity/Q537809>,
+        <http://www.wikidata.org/entity/Q976460> ;
+    ns1:genre <http://www.wikidata.org/entity/Q157443> .
+
+<http://www.wikidata.org/entity/Q59531> a <https://www.wikidata.org/wiki/Q11424> ;
+    rdfs:label "Anatomie de l’enfer"^^xsd:string ;
+    ns1:actor <http://www.wikidata.org/entity/Q271553>,
+        <http://www.wikidata.org/entity/Q289054>,
+        <http://www.wikidata.org/entity/Q56219> ;
+    ns1:genre <http://www.wikidata.org/entity/Q1135802>,
+        <http://www.wikidata.org/entity/Q130232>,
+        <http://www.wikidata.org/entity/Q185529>,
+        <http://www.wikidata.org/entity/Q20442589> .
+
+<http://www.wikidata.org/entity/Q59534> a <https://www.wikidata.org/wiki/Q11424> ;
+    rdfs:label "Planet der Affen"^^xsd:string ;
+    ns1:actor <http://www.wikidata.org/entity/Q1233590>,
+        <http://www.wikidata.org/entity/Q1287406>,
+        <http://www.wikidata.org/entity/Q272445>,
+        <http://www.wikidata.org/entity/Q283988>,
+        <http://www.wikidata.org/entity/Q313040>,
+        <http://www.wikidata.org/entity/Q3176442>,
+        <http://www.wikidata.org/entity/Q323961>,
+        <http://www.wikidata.org/entity/Q3260154>,
+        <http://www.wikidata.org/entity/Q4351837>,
+        <http://www.wikidata.org/entity/Q503597>,
+        <http://www.wikidata.org/entity/Q59824>,
+        <http://www.wikidata.org/entity/Q80739>,
+        <http://www.wikidata.org/entity/Q863063> ;
+    ns1:genre <http://www.wikidata.org/entity/Q20443008>,
+        <http://www.wikidata.org/entity/Q2973181>,
+        <http://www.wikidata.org/entity/Q471839>,
+        <http://www.wikidata.org/entity/Q52207399> .
+
+<http://www.wikidata.org/entity/Q59567> a <https://www.wikidata.org/wiki/Q11424> ;
+    rdfs:label "Kein Sterbenswort"^^xsd:string ;
+    ns1:actor <http://www.wikidata.org/entity/Q766656> ;
+    ns1:genre <http://www.wikidata.org/entity/Q1200678>,
+        <http://www.wikidata.org/entity/Q130232>,
+        <http://www.wikidata.org/entity/Q2484376>,
+        <http://www.wikidata.org/entity/Q959790> .
+
+<http://www.wikidata.org/entity/Q59572> a <https://www.wikidata.org/wiki/Q11424> ;
+    rdfs:label "In the Cut"^^xsd:string ;
+    ns1:actor <http://www.wikidata.org/entity/Q16729989>,
+        <http://www.wikidata.org/entity/Q167498>,
+        <http://www.wikidata.org/entity/Q232902>,
+        <http://www.wikidata.org/entity/Q3454165>,
+        <http://www.wikidata.org/entity/Q3870096>,
+        <http://www.wikidata.org/entity/Q41422>,
+        <http://www.wikidata.org/entity/Q4145>,
+        <http://www.wikidata.org/entity/Q710766> ;
+    ns1:genre <http://www.wikidata.org/entity/Q2421031>,
+        <http://www.wikidata.org/entity/Q2439025>,
+        <http://www.wikidata.org/entity/Q2484376> .
+
+<http://www.wikidata.org/entity/Q59595> a <https://www.wikidata.org/wiki/Q11424> ;
+    rdfs:label "Mr. Deeds"^^xsd:string ;
+    ns1:actor <http://www.wikidata.org/entity/Q101797>,
+        <http://www.wikidata.org/entity/Q104061>,
+        <http://www.wikidata.org/entity/Q132952>,
+        <http://www.wikidata.org/entity/Q1395333>,
+        <http://www.wikidata.org/entity/Q1631046>,
+        <http://www.wikidata.org/entity/Q16474>,
+        <http://www.wikidata.org/entity/Q1713151>,
+        <http://www.wikidata.org/entity/Q192217>,
+        <http://www.wikidata.org/entity/Q232304>,
+        <http://www.wikidata.org/entity/Q233419>,
+        <http://www.wikidata.org/entity/Q244234>,
+        <http://www.wikidata.org/entity/Q2766939>,
+        <http://www.wikidata.org/entity/Q296537>,
+        <http://www.wikidata.org/entity/Q309900>,
+        <http://www.wikidata.org/entity/Q3101983>,
+        <http://www.wikidata.org/entity/Q345259>,
+        <http://www.wikidata.org/entity/Q362500>,
+        <http://www.wikidata.org/entity/Q3778264>,
+        <http://www.wikidata.org/entity/Q460355>,
+        <http://www.wikidata.org/entity/Q711035>,
+        <http://www.wikidata.org/entity/Q7803649> ;
+    ns1:genre <http://www.wikidata.org/entity/Q860626> .
+
+<http://www.wikidata.org/entity/Q59610> a <https://www.wikidata.org/wiki/Q11424> ;
+    rdfs:label "7 Psychos"^^xsd:string ;
+    ns1:actor <http://www.wikidata.org/entity/Q12026921>,
+        <http://www.wikidata.org/entity/Q1334725>,
+        <http://www.wikidata.org/entity/Q164730>,
+        <http://www.wikidata.org/entity/Q172035>,
+        <http://www.wikidata.org/entity/Q184805>,
+        <http://www.wikidata.org/entity/Q185051>,
+        <http://www.wikidata.org/entity/Q201279>,
+        <http://www.wikidata.org/entity/Q230113>,
+        <http://www.wikidata.org/entity/Q236097>,
+        <http://www.wikidata.org/entity/Q241854>,
+        <http://www.wikidata.org/entity/Q2745996>,
+        <http://www.wikidata.org/entity/Q28151585>,
+        <http://www.wikidata.org/entity/Q28498>,
+        <http://www.wikidata.org/entity/Q314290>,
+        <http://www.wikidata.org/entity/Q316446>,
+        <http://www.wikidata.org/entity/Q352540>,
+        <http://www.wikidata.org/entity/Q382197>,
+        <http://www.wikidata.org/entity/Q4088048>,
+        <http://www.wikidata.org/entity/Q438445>,
+        <http://www.wikidata.org/entity/Q6555605> ;
+    ns1:genre <http://www.wikidata.org/entity/Q130232>,
+        <http://www.wikidata.org/entity/Q157443>,
+        <http://www.wikidata.org/entity/Q959790> .
+
+<http://www.wikidata.org/entity/Q59634> a <https://www.wikidata.org/wiki/Q11424> ;
+    rdfs:label "Man muss mich nicht lieben"^^xsd:string ;
+    ns1:actor <http://www.wikidata.org/entity/Q1341507>,
+        <http://www.wikidata.org/entity/Q15973222>,
+        <http://www.wikidata.org/entity/Q2850979>,
+        <http://www.wikidata.org/entity/Q3008989>,
+        <http://www.wikidata.org/entity/Q3100676>,
+        <http://www.wikidata.org/entity/Q3155040>,
+        <http://www.wikidata.org/entity/Q3292235>,
+        <http://www.wikidata.org/entity/Q3350916>,
+        <http://www.wikidata.org/entity/Q3367569>,
+        <http://www.wikidata.org/entity/Q3374071>,
+        <http://www.wikidata.org/entity/Q3501539>,
+        <http://www.wikidata.org/entity/Q4253528>,
+        <http://www.wikidata.org/entity/Q437415>,
+        <http://www.wikidata.org/entity/Q4971812>,
+        <http://www.wikidata.org/entity/Q6292322>,
+        <http://www.wikidata.org/entity/Q677496> ;
+    ns1:genre <http://www.wikidata.org/entity/Q130232>,
+        <http://www.wikidata.org/entity/Q157443> .
+
+<http://www.wikidata.org/entity/Q62746> a <https://www.wikidata.org/wiki/Q11424> ;
+    rdfs:label "Der Soldat von Oranien"^^xsd:string ;
+    ns1:actor <http://www.wikidata.org/entity/Q1961459>,
+        <http://www.wikidata.org/entity/Q19850547>,
+        <http://www.wikidata.org/entity/Q2021072>,
+        <http://www.wikidata.org/entity/Q2036167>,
+        <http://www.wikidata.org/entity/Q2058972>,
+        <http://www.wikidata.org/entity/Q2147442>,
+        <http://www.wikidata.org/entity/Q2155622>,
+        <http://www.wikidata.org/entity/Q2276907>,
+        <http://www.wikidata.org/entity/Q2365379>,
+        <http://www.wikidata.org/entity/Q2367763>,
+        <http://www.wikidata.org/entity/Q2386301>,
+        <http://www.wikidata.org/entity/Q2531043>,
+        <http://www.wikidata.org/entity/Q2611627>,
+        <http://www.wikidata.org/entity/Q2614946>,
+        <http://www.wikidata.org/entity/Q2783680>,
+        <http://www.wikidata.org/entity/Q2800682>,
+        <http://www.wikidata.org/entity/Q28737183>,
+        <http://www.wikidata.org/entity/Q3459102>,
+        <http://www.wikidata.org/entity/Q7648277> ;
+    ns1:genre <http://www.wikidata.org/entity/Q52162262> .
+
+<http://www.wikidata.org/entity/Q62976> a <https://www.wikidata.org/wiki/Q11424> ;
+    rdfs:label "Lebensgier"^^xsd:string ;
+    ns1:actor <http://www.wikidata.org/entity/Q15408068>,
+        <http://www.wikidata.org/entity/Q15499681>,
+        <http://www.wikidata.org/entity/Q1694314>,
+        <http://www.wikidata.org/entity/Q182349>,
+        <http://www.wikidata.org/entity/Q212048>,
+        <http://www.wikidata.org/entity/Q288661>,
+        <http://www.wikidata.org/entity/Q386389>,
+        <http://www.wikidata.org/entity/Q4780102>,
+        <http://www.wikidata.org/entity/Q59314>,
+        <http://www.wikidata.org/entity/Q7160687>,
+        <http://www.wikidata.org/entity/Q950397>,
+        <http://www.wikidata.org/entity/Q953504> ;
+    ns1:genre <http://www.wikidata.org/entity/Q130232>,
+        <http://www.wikidata.org/entity/Q185867>,
+        <http://www.wikidata.org/entity/Q52162262>,
+        <http://www.wikidata.org/entity/Q959790> .
+
+<http://www.wikidata.org/entity/Q63009> a <https://www.wikidata.org/wiki/Q11424> ;
+    rdfs:label "Herr der Gezeiten"^^xsd:string ;
+    ns1:actor <http://www.wikidata.org/entity/Q150651>,
+        <http://www.wikidata.org/entity/Q188018>,
+        <http://www.wikidata.org/entity/Q266467>,
+        <http://www.wikidata.org/entity/Q271883>,
+        <http://www.wikidata.org/entity/Q40064>,
+        <http://www.wikidata.org/entity/Q4636>,
+        <http://www.wikidata.org/entity/Q62845> ;
+    ns1:genre <http://www.wikidata.org/entity/Q1054574>,
+        <http://www.wikidata.org/entity/Q130232>,
+        <http://www.wikidata.org/entity/Q52162262> .
+
